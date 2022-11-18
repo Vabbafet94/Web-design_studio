@@ -12,7 +12,7 @@ body{
 }
 header{
 
-    margin:2% 5% 0 5%;
+    margin:1% 5% 0 5%;
 }
 header nav{
     display: flex;
@@ -28,7 +28,14 @@ header nav nav {
 header nav nav a{
     color: white;
     text-decoration: none;
+    font-size: 15px;
 }
 .btn{
+    box-shadow: 0 0 12px 8px #BC28F0,0 0 12px 8px #BC28F0 inset;
+    border: 5px solid white;
+    padding:20px 42px;
+
+}
+p1{
 
 }
